@@ -1,0 +1,8 @@
+.pagination-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pagination-container a {
+    margin: 0 5px;
+}
